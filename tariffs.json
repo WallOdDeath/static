@@ -18,7 +18,7 @@
 			{
 				"item_text": "Трансфер Салехард — Москва (ШРМ) Рейс YC 32 A/K «Ямал»",
 				"price": 9500,
-				"social": 0,
+				"social": null,
 				"children": 4750,
 				"ageFrom": 10,
 				"ageTo": 12,
@@ -28,7 +28,7 @@
 			{
 				"item_text": "Москва (ШРМ) Рейс YC 32 A/K «Ямал»",
 				"price": 9500,
-				"social": 0,
+				"social": null,
 				"children": 4750,
 				"ageFrom": 10,
 				"ageTo": 12,
@@ -74,7 +74,7 @@
 			{
 				"item_text": "Трансфер Салехард — Москва (ШРМ) Рейс YC 32 A/K «Ямал»",
 				"price": 9500,
-				"social": 0,
+				"social": null,
 				"children": 4750,
 				"ageFrom": 10,
 				"ageTo": 12,
